@@ -1,3 +1,6 @@
+/** Given two strings you have to determine if they are 1 edit away to becoming identical
+*   or not. The edit can be insert an element, remove an element or replace a character.
+*/
 #include<bits/stdc++.h>
 using namespace std;
 bool oneaway(string s1,string s2){
